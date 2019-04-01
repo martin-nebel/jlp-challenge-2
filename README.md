@@ -11,4 +11,5 @@ Takes a price label that is in a valid format apart from containing invalid pric
 
 ## To test via Slack:
 - in any channel, type **/martin-c2 _priceLabelStringToFix_**
-- don't worry, the message will be local to you!
+  - e.g. **/martin-c2 Was £150, then £250, now £99**
+- don't worry, the message and the reply will be local to you!
