@@ -6,8 +6,8 @@ Takes a price label that is in a valid format apart from containing invalid pric
 ## To install and run tests locally:
 - ensure you have Node and NPM installed (See [https://nodejs.org/en/](https://nodejs.org/en/) if not)
 - clone the repository (**git clone https://github.com/martin-nebel/jlp-challenge-2.git**)
-- install jest (**npm install --save-dev jest**)
-- run tests (**cd jlp-challenge-2 && npm run test**)
+- install jest (**cd jlp-challenge-2 && npm install**)
+- run tests (**npm run test** - assuming you are still in jlp-challenge-2 folder from previous step)
 
 ## To test via Slack:
 - in any channel, type **/martin-c2 _priceLabelStringToFix_**
